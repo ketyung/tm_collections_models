@@ -75,6 +75,12 @@ pub enum AttributeType {
 
     Status,
 
+    Twitter,
+
+    Facebook,
+    
+    Website,
+
 }
 
 
