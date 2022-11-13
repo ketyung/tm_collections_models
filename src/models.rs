@@ -73,6 +73,8 @@ pub enum AttributeType {
 
     NextTicketNumber,
 
+    TicketStartingNumber,
+
     Status,
 
     Twitter,
