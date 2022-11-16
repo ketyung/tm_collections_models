@@ -75,6 +75,8 @@ pub enum AttributeType {
 
     TicketStartingNumber,
 
+    BuyerRequiredToSignUp,
+
     Status,
 
     Twitter,
